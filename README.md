@@ -1,9 +1,9 @@
 # pdf2Image
 PDF转图片DEMO,可实现超大PDF在线懒加载预览
 PDF的在线预览可是用pdf.js等前端工具，也可使用以下
-XDOC:
+## XDOC:
 http://xdocin.com/
-office online：
+### office online：
 http://preview.tita.com/op/generate.aspx
 
 对比多种方案，最终选择Apache的pdfbox，转换清晰，效率也不错
